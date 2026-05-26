@@ -4,6 +4,13 @@ A full-stack Laravel MVC project that provides an immersive online virtual zoo e
 
 ---
 
+<img width="1910" height="1100" alt="image" src="https://github.com/user-attachments/assets/1bc9a509-2298-46cc-b43a-cf4a32d5d63c" />
+
+
+<img width="1918" height="1035" alt="image" src="https://github.com/user-attachments/assets/e4cbbb3f-fe86-4c7c-9ec3-362d7e01462c" />
+
+
+
 ## 🚀 Features
 
 ### Core Modules
@@ -172,6 +179,10 @@ MVC Zoo/
 ---
 
 ## 🎨 Design Theme
+<img width="1789" height="1021" alt="image" src="https://github.com/user-attachments/assets/d8fe25dd-e554-479e-9866-76be68e34124" />
+<img width="1919" height="1098" alt="image" src="https://github.com/user-attachments/assets/25d61796-296f-496c-894c-8ff52ee0b5ff" />
+
+
 
 - **Color Palette**: Dark jungle greens, earth tones, emerald accents
 - **Style**: Glassmorphism cards with backdrop blur
